@@ -1,0 +1,22 @@
+{
+  "name": "Cosmic Roll Ultimate",
+  "short_name": "Cosmic Roll",
+  "description": "An epic mobile space game with 16 bosses, themes, shop and more!",
+  "start_url": "/Cosmic-Roll/cosmic-roll-v4.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#020810",
+  "theme_color": "#00f5ff",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
